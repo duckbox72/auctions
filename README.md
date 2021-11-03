@@ -9,3 +9,6 @@ Auctions is an eBay-like e-commerce auction web application implemented using Dj
 * Django
 * SQLite
 * HTML, CSS
+
+
+Watch Youtube [demo video](https://youtu.be/97cva5HQytA)
